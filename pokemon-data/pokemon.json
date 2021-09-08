@@ -825,15 +825,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "ground",
+                        "url": "https://pokeapi.co/api/v2/type/5/"
                     }
                 }
             ]
@@ -845,15 +838,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "normal",
+                        "url": "https://pokeapi.co/api/v2/type/1/"
                     }
                 }
             ]
@@ -865,15 +851,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "normal",
+                        "url": "https://pokeapi.co/api/v2/type/1/"
                     }
                 }
             ]
@@ -885,30 +864,50 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
                     }
                 }
             ]
         },
         {
             "name": "golduck",
-            "id": "55"
+            "id": "55",
+            "types": [
+                {
+                    "slot": 1,
+                    "type": {
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
+                    }
+                }
+            ]
         },
         {
             "name": "mankey",
-            "id": "56"
+            "id": "56",
+            "types": [
+                {
+                    "slot": 1,
+                    "type": {
+                        "name": "fighting",
+                        "url": "https://pokeapi.co/api/v2/type/2/"
+                    }
+                }
+            ]
         },
         {
             "name": "primeape",
-            "id": "57"
+            "id": "57",
+            "types": [
+                {
+                    "slot": 1,
+                    "type": {
+                        "name": "fighting",
+                        "url": "https://pokeapi.co/api/v2/type/2/"
+                    }
+                }
+            ]
         },
         {
             "name": "growlithe",
@@ -917,15 +916,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "fire",
+                        "url": "https://pokeapi.co/api/v2/type/10/"
                     }
                 }
             ]
@@ -937,15 +929,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "fire",
+                        "url": "https://pokeapi.co/api/v2/type/10/"
                     }
                 }
             ]
@@ -957,15 +942,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
                     }
                 }
             ]
@@ -977,15 +955,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
                     }
                 }
             ]
@@ -997,15 +968,15 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
                     }
                 },
                 {
                     "slot": 2,
                     "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "fighting",
+                        "url": "https://pokeapi.co/api/v2/type/2/"
                     }
                 }
             ]
@@ -1017,15 +988,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "psychic",
+                        "url": "https://pokeapi.co/api/v2/type/14/"
                     }
                 }
             ]
@@ -1037,15 +1001,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "psychic",
+                        "url": "https://pokeapi.co/api/v2/type/14/"
                     }
                 }
             ]
@@ -1057,15 +1014,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "psychic",
+                        "url": "https://pokeapi.co/api/v2/type/14/"
                     }
                 }
             ]
@@ -1077,15 +1027,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "fighting",
+                        "url": "https://pokeapi.co/api/v2/type/2/"
                     }
                 }
             ]
@@ -1097,15 +1040,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "fighting",
+                        "url": "https://pokeapi.co/api/v2/type/2/"
                     }
                 }
             ]
@@ -1117,15 +1053,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "fighting",
+                        "url": "https://pokeapi.co/api/v2/type/2/"
                     }
                 }
             ]
@@ -1197,8 +1126,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
                     }
                 },
                 {
@@ -1217,8 +1146,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
                     }
                 },
                 {
@@ -1237,15 +1166,15 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "rock",
+                        "url": "https://pokeapi.co/api/v2/type/6/"
                     }
                 },
                 {
                     "slot": 2,
                     "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "ground",
+                        "url": "https://pokeapi.co/api/v2/type/5/"
                     }
                 }
             ]
@@ -1257,15 +1186,15 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "rock",
+                        "url": "https://pokeapi.co/api/v2/type/6/"
                     }
                 },
                 {
                     "slot": 2,
                     "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "ground",
+                        "url": "https://pokeapi.co/api/v2/type/5/"
                     }
                 }
             ]
@@ -1277,15 +1206,15 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "rock",
+                        "url": "https://pokeapi.co/api/v2/type/6/"
                     }
                 },
                 {
                     "slot": 2,
                     "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "ground",
+                        "url": "https://pokeapi.co/api/v2/type/5/"
                     }
                 }
             ]
@@ -1297,15 +1226,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "fire",
+                        "url": "https://pokeapi.co/api/v2/type/10/"
                     }
                 }
             ]
@@ -1317,15 +1239,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "fire",
+                        "url": "https://pokeapi.co/api/v2/type/10/"
                     }
                 }
             ]
@@ -1337,22 +1252,38 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
                     }
                 },
                 {
                     "slot": 2,
                     "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "psychic",
+                        "url": "https://pokeapi.co/api/v2/type/14/"
                     }
                 }
             ]
         },
         {
             "name": "slowbro",
-            "id": "80"
+            "id": "80",
+            "types": [
+                {
+                    "slot": 1,
+                    "type": {
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
+                    }
+                },
+                {
+                    "slot": 2,
+                    "type": {
+                        "name": "psychic",
+                        "url": "https://pokeapi.co/api/v2/type/14/"
+                    }
+                }
+            ]
         },
         {
             "name": "magnemite",
@@ -1361,15 +1292,15 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "electric",
+                        "url": "https://pokeapi.co/api/v2/type/13/"
                     }
                 },
                 {
                     "slot": 2,
                     "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "steel",
+                        "url": "https://pokeapi.co/api/v2/type/9/"
                     }
                 }
             ]
@@ -1381,15 +1312,15 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "electric",
+                        "url": "https://pokeapi.co/api/v2/type/13/"
                     }
                 },
                 {
                     "slot": 2,
                     "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "steel",
+                        "url": "https://pokeapi.co/api/v2/type/9/"
                     }
                 }
             ]
@@ -1401,15 +1332,15 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "normal",
+                        "url": "https://pokeapi.co/api/v2/type/1/"
                     }
                 },
                 {
                     "slot": 2,
                     "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "flying",
+                        "url": "https://pokeapi.co/api/v2/type/3/"
                     }
                 }
             ]
@@ -1421,15 +1352,15 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "normal",
+                        "url": "https://pokeapi.co/api/v2/type/1/"
                     }
                 },
                 {
                     "slot": 2,
                     "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "flying",
+                        "url": "https://pokeapi.co/api/v2/type/3/"
                     }
                 }
             ]
@@ -1441,15 +1372,15 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "normal",
+                        "url": "https://pokeapi.co/api/v2/type/1/"
                     }
                 },
                 {
                     "slot": 2,
                     "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "flying",
+                        "url": "https://pokeapi.co/api/v2/type/3/"
                     }
                 }
             ]
@@ -1461,15 +1392,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
                     }
                 }
             ]
@@ -1481,15 +1405,15 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
                     }
                 },
                 {
                     "slot": 2,
                     "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "ice",
+                        "url": "https://pokeapi.co/api/v2/type/15/"
                     }
                 }
             ]
@@ -1500,13 +1424,6 @@
             "types": [
                 {
                     "slot": 1,
-                    "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
                     "type": {
                         "name": "poison",
                         "url": "https://pokeapi.co/api/v2/type/4/"
@@ -1521,13 +1438,6 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
                         "name": "poison",
                         "url": "https://pokeapi.co/api/v2/type/4/"
                     }
@@ -1541,15 +1451,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
                     }
                 }
             ]
@@ -1561,15 +1464,15 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
                     }
                 },
                 {
                     "slot": 2,
                     "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "ice",
+                        "url": "https://pokeapi.co/api/v2/type/15/"
                     }
                 }
             ]
@@ -1581,8 +1484,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "ghost",
+                        "url": "https://pokeapi.co/api/v2/type/8/"
                     }
                 },
                 {
@@ -1601,8 +1504,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "ghost",
+                        "url": "https://pokeapi.co/api/v2/type/8/"
                     }
                 },
                 {
@@ -1621,8 +1524,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "ghost",
+                        "url": "https://pokeapi.co/api/v2/type/8/"
                     }
                 },
                 {
@@ -1641,15 +1544,15 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
+                        "name": "rock",
+                        "url": "https://pokeapi.co/api/v2/type/6/"
                     }
                 },
                 {
                     "slot": 2,
                     "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "ground",
+                        "url": "https://pokeapi.co/api/v2/type/5/"
                     }
                 }
             ]
@@ -1661,15 +1564,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "psychic",
+                        "url": "https://pokeapi.co/api/v2/type/14/"
                     }
                 }
             ]
@@ -1681,15 +1577,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "psychic",
+                        "url": "https://pokeapi.co/api/v2/type/14/"
                     }
                 }
             ]
@@ -1701,15 +1590,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
                     }
                 }
             ]
@@ -1721,15 +1603,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "water",
+                        "url": "https://pokeapi.co/api/v2/type/11/"
                     }
                 }
             ]
@@ -1741,15 +1616,8 @@
                 {
                     "slot": 1,
                     "type": {
-                        "name": "grass",
-                        "url": "https://pokeapi.co/api/v2/type/12/"
-                    }
-                },
-                {
-                    "slot": 2,
-                    "type": {
-                        "name": "poison",
-                        "url": "https://pokeapi.co/api/v2/type/4/"
+                        "name": "electric",
+                        "url": "https://pokeapi.co/api/v2/type/13/"
                     }
                 }
             ]
